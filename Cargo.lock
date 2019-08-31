@@ -161,7 +161,7 @@ dependencies = [
 
 [[package]]
 name = "rust-webpack-template"
-version = "0.1.0"
+version = "0.0.1"
 dependencies = [
  "console_error_panic_hook 0.1.6 (registry+https://github.com/rust-lang/crates.io-index)",
  "futures 0.1.28 (registry+https://github.com/rust-lang/crates.io-index)",

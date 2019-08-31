@@ -6,7 +6,7 @@ version = "0.0.1"
 authors = ["Timothy Whitehead"]
 categories = ["wasm","rust"]
 readme = "README.md"
-edition = "2019"
+edition = "2018"
 
 [lib]
 crate-type = ["cdylib"]

@@ -170,6 +170,8 @@ async function begin() {
 		console.log('solution found',i)
 			break;
 		}
+		//First solution:
+		// 103 seconds
 		// 		allPieces[0].forEach(p => p.used = false)
 		// 		solution.forEach(sol =>			allPieces[0][sol[1]].used = true		)
 
