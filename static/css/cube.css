@@ -1,0 +1,20 @@
+#piecesDiv,
+#piecesDiv canvas {
+    width: 400px;
+    height: 400px;
+}
+
+#solutionDiv,
+#solutionDiv canvas {
+    width: 500px;
+    height: 500px;
+}
+
+#rotationsDiv,
+#rotationsDiv canvas {
+    width: 400px;
+    height: 400px;
+}
+#testColor{
+    backgroundColor:#24240e;
+}
